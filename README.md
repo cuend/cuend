@@ -1,7 +1,7 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">✴️ Welcome! ✴️</h1>
 
 <p align="center">
-  <img alt="beksinski" src="https://media.tenor.com/Kf6d-zf40-cAAAAd/suntod-glts.gif">
+  <img alt="beksinski" style="height: 540px" src="./beksinski.gif">
 </p>
 
 ## 🇲🇽 About Me
@@ -15,17 +15,29 @@ I am excited to connect and explore opportunities for collaboration in pursuit o
 ## 🕹 Tools & Technologies 
 
 <div class="tech" align=left>
+  <!-- Languages -->
+  <img style="height:20px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img style="height:20px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img style="height:20px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow" alt="javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="css3"/>
-<!--   <img src="https://img.shields.io/badge/-Tailwind-6440CE?logo=tailwindcss&logoColor=white" alt="tailwind"/> -->
+
+  <br>
+  <!-- Frameworks -->
+  <!-- <img style="height:20px" src=""/> -->
+  <img style="height:20px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-Tailwind-6440CE?logo=tailwindcss&logoColor=white" alt="tailwind"/> -->
+  <img style="height:20px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-3c4156?logo=react&logoColor=61DAFB" alt="react js"/>
   <img src="https://img.shields.io/badge/-EXPRESS-000?logo=express&logoColor=white" alt="express"/>
   <img src="https://img.shields.io/badge/-NODEJS-339933?logo=node.js&logoColor=white" alt="node.js"/>
-<!--   <img src="https://img.shields.io/badge/-PostgreSQL-396EA3?logo=postgresql&logoColor=white" alt="postgresql"/> -->
+  <img style="height:20px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <!-- <img src="https://img.shields.io/badge/-PostgreSQL-396EA3?logo=postgresql&logoColor=white" alt="postgresql"/> -->
   
   <br>
-  
+
+  <!-- IDE/Version Control/ETC -->
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" alt="VScode"/>
   <img src="https://img.shields.io/badge/-Figma-000?logo=figma&logoColor=white" alt="github"/>
   <!-- <img src="https://img.shields.io/badge/-Babel-444?logo=babel&logoColor=yellow" alt="babel"/>
