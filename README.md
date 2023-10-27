@@ -1,7 +1,7 @@
 <h1 align="center">✴️ Welcome! ✴️</h1>
 
 <p align="center">
-  <img alt="beksinski" style="height: 540px" src="./beksinski.gif">
+  <img alt="beksinski" style="height: 400px" src="./beksinski.gif">
 </p>
 
 ## 🇲🇽 About Me
